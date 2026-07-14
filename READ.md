@@ -62,7 +62,7 @@ aws-static-website/
 
 ## Project Screenshot
 
-> Add your website screenshot here after uploading it to the repository.
+![AWS Static Website](images/website-preview.png)
 
 ---
 
